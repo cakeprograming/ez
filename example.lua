@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet(""))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/cakeprograming/ez/refs/heads/main/libray.lua"))()
 
 local main = Library.new()
 
